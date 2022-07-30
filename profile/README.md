@@ -22,9 +22,9 @@ This is a GitHub organization for developers from [The Chat Cloud](https://disco
 ### Our developing team:
 
 #### Head Developers:
-- HyperCodec
-- Former
-- Char
+- [HyperCodec](https://github.com/hypercodec)
+- [Former](https://github.com/fxrmer)
+- [Char](https://github.com/c-h-a-r)
 
 #### Developers:
-- Kane
+- [Kane](https://github.com/kane28)
