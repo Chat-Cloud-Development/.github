@@ -6,7 +6,7 @@ This is a GitHub organization for developers from [The Chat Cloud](https://disco
 
 ### Our released projects (code may be private):
 
-#### Bots:
+#### Discord Bots:
 - Cloud Activities - Char
 - Cloud Facts - Former
 - Cloud Feed - Char
