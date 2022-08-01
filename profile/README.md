@@ -28,3 +28,6 @@ This is a GitHub organization for developers from [The Chat Cloud](https://disco
 
 #### Developers:
 - [Kane](https://github.com/kane28)
+
+#### Retired Developers:
+- browniie (no known github, contact lost)
