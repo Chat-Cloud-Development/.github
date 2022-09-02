@@ -24,9 +24,9 @@ This is a GitHub organization for developers from [The Chat Cloud](https://disco
 #### Head Developers:
 - [HyperCodec](https://github.com/hypercodec)
 - [Former](https://github.com/fxrmer)
-- [Char](https://github.com/c-h-a-r)
 
 #### Developers:
+- [Char](https://github.com/c-h-a-r)
 - [Kane](https://github.com/kane28)
 
 #### Retired Developers:
