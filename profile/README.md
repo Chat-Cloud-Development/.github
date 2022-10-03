@@ -28,6 +28,7 @@ This is a GitHub organization for developers from [The Chat Cloud](https://disco
 #### Developers:
 - [Char](https://github.com/c-h-a-r)
 - [Kane](https://github.com/kane28)
+- [Figure](https://github.com/Ada64)
 
 #### Retired Developers:
 - browniie (no known github, contact lost)
