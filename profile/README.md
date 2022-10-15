@@ -34,4 +34,4 @@ This is a GitHub organization for developers from [The Chat Cloud](https://disco
 - browniie (no known github, contact lost)
 
 #### External Helpers:
-- [Manter] (https://github.com/Manterlogy)
+- [Manter](https://github.com/Manterlogy)
